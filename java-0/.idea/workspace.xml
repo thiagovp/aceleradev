@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f01e9815-7247-448d-ac90-d359c6a1bfb7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1adteEiuJPzncuaSbm0R2mMiXXe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java-6" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.DesafioApplication">
+    <configuration name="DesafioApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.codenation.desafioexe.DesafioApplication" />
+      <module name="java-0.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.codenation.desafioexe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.codenation.desafioexe.Teste" />
+      <module name="java-0.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.codenation.desafioexe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DesafioApplicationTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;br.com.codenation.desafioexe.DesafioApplicationTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.DesafioApplicationTest" />
+        <item itemvalue="Application.Teste" />
+        <item itemvalue="Application.DesafioApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f01e9815-7247-448d-ac90-d359c6a1bfb7" name="Default Changelist" comment="" />
+      <created>1587077391396</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587077391396</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="0" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1587078484401">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="395" y="0" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1587078484401" />
+    <state x="372" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1587140104949">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="372" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1587140104949" />
+    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1587212589016">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="117" key="FileChooserDialogImpl/1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1587212589016" />
+    <state width="1322" height="142" key="GridCell.Tab.0.bottom" timestamp="1587143639987">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="142" key="GridCell.Tab.0.bottom/1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1587143639987" />
+    <state width="1322" height="142" key="GridCell.Tab.0.center" timestamp="1587143639987">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="142" key="GridCell.Tab.0.center/1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1587143639987" />
+    <state width="1322" height="142" key="GridCell.Tab.0.left" timestamp="1587143639987">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="142" key="GridCell.Tab.0.left/1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1587143639987" />
+    <state width="1322" height="142" key="GridCell.Tab.0.right" timestamp="1587143639987">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="142" key="GridCell.Tab.0.right/1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1587143639987" />
+    <state width="1322" height="181" key="GridCell.Tab.1.bottom" timestamp="1587081691561">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="181" key="GridCell.Tab.1.bottom/1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1587081691561" />
+    <state width="1322" height="181" key="GridCell.Tab.1.center" timestamp="1587081691560">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="181" key="GridCell.Tab.1.center/1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1587081691560" />
+    <state width="1322" height="181" key="GridCell.Tab.1.left" timestamp="1587081691560">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="181" key="GridCell.Tab.1.left/1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1587081691560" />
+    <state width="1322" height="181" key="GridCell.Tab.1.right" timestamp="1587081691560">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="181" key="GridCell.Tab.1.right/1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1587081691560" />
+    <state x="359" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1587212580476">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="359" y="186" key="com.intellij.ide.util.TipDialog/1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1587212580476" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1587139250874">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1587139250874" />
+  </component>
+</project>
