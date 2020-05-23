@@ -7,11 +7,11 @@
 > Task :testClasses
 
 > Task :test
-2020-05-23 12:20:36.201  INFO 9280 --- [       Thread-8] ConfigServletWebServerApplicationContext : Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@2a8c92a3: startup date [Sat May 23 12:20:29 BRT 2020]; root of context hierarchy
-2020-05-23 12:20:36.201  INFO 9280 --- [       Thread-5] o.s.w.c.s.GenericWebApplicationContext   : Closing org.springframework.web.context.support.GenericWebApplicationContext@61fed762: startup date [Sat May 23 12:20:26 BRT 2020]; root of context hierarchy
-2020-05-23 12:20:36.201  INFO 9280 --- [       Thread-8] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
-2020-05-23 12:20:36.201  INFO 9280 --- [       Thread-8] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
-2020-05-23 12:20:36.201  INFO 9280 --- [       Thread-8] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2020-05-23 16:00:05.775  INFO 10264 --- [       Thread-8] ConfigServletWebServerApplicationContext : Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@6842b06d: startup date [Sat May 23 15:59:59 BRT 2020]; root of context hierarchy
+2020-05-23 16:00:05.791  INFO 10264 --- [       Thread-8] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2020-05-23 16:00:05.791  INFO 10264 --- [       Thread-5] o.s.w.c.s.GenericWebApplicationContext   : Closing org.springframework.web.context.support.GenericWebApplicationContext@643c5d57: startup date [Sat May 23 15:59:57 BRT 2020]; root of context hierarchy
+2020-05-23 16:00:05.791  INFO 10264 --- [       Thread-8] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2020-05-23 16:00:05.920  INFO 10264 --- [       Thread-8] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
 
-BUILD SUCCESSFUL in 16s
+BUILD SUCCESSFUL in 15s
 5 actionable tasks: 5 executed

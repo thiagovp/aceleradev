@@ -15,8 +15,8 @@ public class QuoteServiceImpl implements QuoteService {
 
 	@Override
 	public Quote getQuote() {
-		List<Quote> quoteList = repository.findAll();
-		return quoteList.get(random.nextInt(quoteList.size()));
+		Integer max =repository.findMaxId();
+		return repository.findById(random.nextInt(max)).orElseThrow(RuntimeException::new);
 	}
 
 	@Override
