@@ -1,10 +1,13 @@
-package br.com.codenation.paymentmethods.impl;
+package br.com.codenation.paymentmethods;
 
 import br.com.codenation.paymentmethods.PriceStrategy;
 
-public class CreditCarPayment implements PriceStrategy {
+public class CreditCardPayment implements PriceStrategy {
+
+    public static final double DISCOUNT = 0.98;
+
     @Override
     public Double calculate(Double price) {
-        return price * 0.98;
+        return price * DISCOUNT;
     }
 }
